@@ -37,5 +37,5 @@ Este proyecto es un controlador gestual ligero diseñado para optimizar el flujo
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/gesture-control-gnome.git](https://github.com/tu-usuario/gesture-control-gnome.git)
+   git clone https://github.com/elolmedo/gesture-control-gnome.git
    cd gesture-control-gnome
